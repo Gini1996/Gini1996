@@ -1,10 +1,10 @@
 ## :man_technologist: About Me: 
 
-###### :left_speech_bubble: Codificando desde 2014 e profissionalmente desde 2022
+##### :left_speech_bubble: Codificando desde 2014 e profissionalmente desde 2022
 
-###### 👩🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto
+##### 👩🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto
 
-###### 👩🏻‍🎓 Graduado em Jogos Digitais pelo Centro Universitário Barão de Mauá  
+##### 👩🏻‍🎓 Graduado em Jogos Digitais pelo Centro Universitário Barão de Mauá  
 
 
 ## 💻 Tech:
