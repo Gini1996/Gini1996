@@ -34,7 +34,8 @@
 
 ## 🌐 Contato:
 <div>
-<a href="https://www.linkedin.com/in/leonardo-ferreira-dev96/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" widht=40 height=40/>
+<a href="https://www.linkedin.com/in/leonardo-ferreira-dev96/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" widht=40 height=40/> 
+<a href="mailto:leonardo.gini.96@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" alt="Mail" widht=40 height=40/>
 </div>
 
 
